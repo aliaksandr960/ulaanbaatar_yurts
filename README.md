@@ -4,4 +4,4 @@
 
 Dataset usage should be comply with Mapbox imagery usage license. Looks like, it suitable only for OSM improvement.
 
-Article will published soon.
+Article will be published soon.
