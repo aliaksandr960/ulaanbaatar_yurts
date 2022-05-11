@@ -1,6 +1,8 @@
 # Ulaanbaatr yurt mapping experiment
-- yurt.gpkg file with yurts
-- aoi.gpks file with area of interest
+- yurt.gpkg - file with yurts
+- aoi.gpks - file with area of interest
+
+- notebooks - folder with training pipelines
 
 Dataset usage should be comply with Mapbox imagery usage license. Looks like, it suitable only for OSM improvement.
 
